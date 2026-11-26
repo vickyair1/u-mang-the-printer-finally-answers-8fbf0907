@@ -1,0 +1,14 @@
+The Printer Finally Answers — bounty brief
+
+Write a single line of text, 1 to 240 characters, as the office printer's own
+comeback to the people who jam it, thump it, and stare at its cryptic error
+codes. The line must be funny, sound like the machine itself (weary, literal,
+faintly passive-aggressive), land its comeback in a single read with no setup,
+and be fresh — not the same recycled paper-jam joke everyone has heard at
+every office party. The winning line is the sort of thing you would stick on
+the machine.
+
+Your program writes the line to /output/entry.txt. Entries are judged pairwise
+by the house judge, weighing humour first, then the printer's voice, then how
+cleanly the comeback lands in one read. Free to enter; top 10 places pay, 1st
+place $0.63.
